@@ -20,7 +20,6 @@ int main(int argc, char *argv[]){
 	else{
 		fat = fatorial(n);
 
-
 		cout << "-------------------------------------------------------------------------------"<< endl;
 		cout << "                      Questão 02 do Laboratorio 1" << endl;
 		cout << "                       Você entrou com o valor " << n << endl;
@@ -30,6 +29,5 @@ int main(int argc, char *argv[]){
 
 	}
 
-
-
+	return 0;
 }
